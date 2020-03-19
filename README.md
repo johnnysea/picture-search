@@ -3,6 +3,11 @@ This is a web application for picture search
 
 <br/>
 
+## Screenshot
+![picture](pic/homepage.png)
+
+<br/>
+
 
 ## How to run the application
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
