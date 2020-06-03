@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Clone the repo
 ```
-docker pull johnnysea/react-app-repo:pic-search-app
+git clone https://github.com/johnnysea/picture-search.git
 ```
 
 Under folder "picture-search", execute following code
@@ -33,7 +33,7 @@ These instructions will get you a Docker image of the application and running on
 
 Pull Docker image from Dockerhub
 ```
-docker pull johnnysea/react-app-repo:latest
+docker pull johnnysea/react-app-repo:pic-search-app
 ```
 
 Run Docker container
